@@ -9,7 +9,7 @@ if someone sells this source code. It means you got scammed lol
 
 #### Get all items
 
-```http
+```txt
   ./botconfig/config.json
 ```
 
